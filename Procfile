@@ -1,1 +1,1 @@
-web: sh setup.sh && streamlit run myapp_damodaran
+web: sh setup.sh && streamlit run myapp_damodaran.py
